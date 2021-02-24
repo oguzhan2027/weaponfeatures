@@ -1,2 +1,1 @@
-# weaponfeatures
- 
+txt dosyası okuma 
